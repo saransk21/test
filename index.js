@@ -1,10 +1,10 @@
 
 const test1 = () =>{
-    console.log("little")
+    console.log("big feature")
 }
 test1()
 
 
 
 
-console.log("testing")
+console.log("hello")
